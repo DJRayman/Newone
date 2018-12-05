@@ -1,0 +1,30 @@
+.sub-menu{
+	display: inline-block;
+	width: 75px;
+	height: 75px;
+	background-color:red;
+}
+.logo {
+	display: inline;
+	width: 195px;
+	height: 75px;
+	background-color:green;
+}
+.menu {
+	display: inline-block;
+	width: 1536px;
+	height: 75px;
+	background-color: yellow;
+}
+.menu-ul {
+	padding: 0;
+	margin: 0px;
+	list-style:none;
+	
+}
+.menu-ul li {
+	display:inline-block;
+}
+.menu-ul a {
+	display:block;
+}
